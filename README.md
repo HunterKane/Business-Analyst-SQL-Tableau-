@@ -11,6 +11,7 @@ Master data fundamentals applicable to any industry and learn to make data-drive
 ### Part 1 Descriptive statistics
 
 #### **Project: Analyze NYSE DATA** 
+
 - Learn the basic concepts of data analysis and descriptive statistics. Learn how to manipulate, analyze, and visualize data in Excel and Google Sheets. Learn about business metrics across a wide range of business areas (marketing, sales, growth, and finance). Finally, learn about forecasting sales and financial metrics.
 
 
@@ -32,3 +33,6 @@ Master data fundamentals applicable to any industry and learn to make data-drive
 
 - Select the most appropriate data visualization for an analysis. Learn how to evaluate the effectiveness of data visualization and build interactive and engaging Tableau dashboards.
 
+### Reference
+
+This program is offered by Udacity: https://www.udacity.com/course/business-analytics-nanodegree--nd098
